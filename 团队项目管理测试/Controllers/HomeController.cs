@@ -14,5 +14,11 @@ namespace 团队项目管理测试.Controllers
         {
             return View();
         }
+
+        public ActionResult SS()
+        {
+            //我就试试
+            return View();
+        }
     }
 }
